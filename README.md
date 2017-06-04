@@ -32,7 +32,9 @@ Install bower: https://bower.io/.
 * Clone the current repository;
 * Change the current folder in the terminal to the project root directory;
 * Run **npm install**;
-* Run **bower install**.
+* Run **bower install**;
+* Start the node server using the following instructions: https://expressjs.com/en/starter/generator.html; execute only the instructions required to start the server for your specific platform and ignore the rest.
+
 
 ### Start the application
 
