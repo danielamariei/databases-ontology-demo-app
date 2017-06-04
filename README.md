@@ -1,4 +1,7 @@
-Demo App for the DBMSs Ontology (databases-ontology)
+## Demo App for the DBMSs Ontology (databases-ontology)
+
+Click on the image to enlarge it.
+
 ![Demo App for the DBMSs Ontology (databases-ontology)](https://raw.githubusercontent.com/danielamariei/databases-ontology-demo-app/master/docs/databases-ontology-demo-app.gif)
 
 ## Introduction
