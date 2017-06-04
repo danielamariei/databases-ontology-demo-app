@@ -1,0 +1,15 @@
+{
+  "name": "databases-ontology-demo-app",
+  "main": "app.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stardog": "^0.3.1"
+  }
+}
