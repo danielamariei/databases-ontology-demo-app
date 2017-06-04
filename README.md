@@ -1,4 +1,5 @@
 Demo App for the DBMSs Ontology (databases-ontology)
+![Demo App for the DBMSs Ontology (databases-ontology)](https://raw.githubusercontent.com/danielamariei/databases-ontology-demo-app/master/docs/databases-ontology-demo-app.gif)
 
 ## Introduction
 The purpose of this application is to provide a demo for the usage of the Database Management Systems Ontology (DBMSs Ontology) ontology.
