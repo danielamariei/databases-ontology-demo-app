@@ -12,15 +12,15 @@ For more details regarding the DBMSs Ontology please consult the dedicated repos
 
 ## Running the application
 ### Prerequisites
-In order to run the application on your system you need to have installed on your system the following dependencies:
+In order to run the application on your system you need to install the following dependencies:
 #### Stardog
 Consult the Stardog documentation in order to install it: http://www.stardog.com/docs/.
 
 After the installation you need to do the following -- consult the documentation for more details:
 * Create a new database called **databases-ontology**;
-* Import the TBox for the DBMSs Ontology: https://raw.githubusercontent.com/danielamariei/databases-ontology/master/tbox/databases-ontology.ttl;
-* Import the ABox for the DBMSs Ontology: https://raw.githubusercontent.com/danielamariei/databases-ontology/master/abox/databases-ontology.ttl;
-* Star the server in order to accept requests from the application.
+* Import the TBox for the DBMSs Ontology -- Stardog can import by URL: https://raw.githubusercontent.com/danielamariei/databases-ontology/master/tbox/databases-ontology.ttl;
+* Import the ABox for the DBMSs Ontology -- Stardog can import by URL: https://raw.githubusercontent.com/danielamariei/databases-ontology/master/abox/databases-ontology.ttl;
+* Start the server in order to accept requests from the application.
 
 The database name, credentials, and default port of the installation should be synchronized with those from the **databases-ontology-comparison.js** 
 file. Implicitly, it should be -- if the previous steps are followed.
